@@ -67,11 +67,11 @@ Millions of individuals, freelancers, and small businesses sign legal contracts 
 
 ## AI Model Integration
 
-### MiMo-7B-RL
+### MiMo
 
-This application integrates with **Xiaomi MiMo-7B-RL** through an OpenAI-compatible API interface.
+This application integrates with **Xiaomi MiMo** through an OpenAI-compatible API interface.
 
-**Why MiMo-7B-RL?**
+**Why xiomi MiMo?**
 
 - **Strong reasoning capability** — excels at multi-step logical analysis required for legal clause evaluation
 - **Structured output** — reliable JSON generation for programmatic risk assessment
@@ -225,5 +225,5 @@ Built with **Xiaomi MiMo AI** as part of the [MiMo Orbit Trillion Token Creator 
 <p align="center">
   <strong>ContractShield AI</strong> — Making contract review accessible to everyone.
   <br />
-  Powered by Xiaomi MiMo-7B-RL
+  Powered by Xiaomi MiMo
 </p>
