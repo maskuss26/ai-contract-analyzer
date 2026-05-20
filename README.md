@@ -1,6 +1,6 @@
 # ContractShield AI
 
-> **Intelligent Contract Risk Analysis** — Powered by Xiaomi MiMo-7B-RL
+> **Intelligent Contract Risk Analysis** — Powered by Xiaomi MiMo
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge)](https://ai-contract-analyzer-1.vercel.app)
 [![MiMo](https://img.shields.io/badge/Model-MiMo--7B--RL-ff6600?style=for-the-badge)](https://github.com/XiaomiMiMo)
@@ -57,7 +57,7 @@ Millions of individuals, freelancers, and small businesses sign legal contracts 
                       ▼
 ┌──────────────────────────────────────────────────────┐
 │              Xiaomi MiMo API                          │
-│              Model: MiMo-7B-RL                        │
+│              Model: MiMo                        │
 │              Temperature: 0.3                         │
 │              Max Tokens: 4,096                        │
 └──────────────────────────────────────────────────────┘
