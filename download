@@ -1,0 +1,14 @@
+export const demoTokenUsage = {
+  totalTokensUsed: 0,
+  totalAnalyses: 0,
+  tokensToday: 0,
+  analysesToday: 0,
+  history: [],
+  recentAnalyses: [],
+  modelInfo: {
+    name: 'MiMo-7B-RL',
+    provider: 'Xiaomi',
+    avgTokensPerAnalysis: 0,
+    avgResponseTime: '—',
+  }
+}
