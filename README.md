@@ -3,7 +3,7 @@
 > **Intelligent Contract Risk Analysis** — Powered by Xiaomi MiMo
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=for-the-badge)](https://ai-contract-analyzer-1.vercel.app)
-[![MiMo](https://img.shields.io/badge/Model-MiMo--7B--RL-ff6600?style=for-the-badge)](https://github.com/XiaomiMiMo)
+[![MiMo](https://img.shields.io/badge/Model-xiomi-MiMo-ff6600?style=for-the-badge)](https://github.com/XiaomiMiMo)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=for-the-badge&logo=vite)](https://vite.dev)
 
